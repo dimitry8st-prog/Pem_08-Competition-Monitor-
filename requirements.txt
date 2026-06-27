@@ -1,0 +1,11 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+openai==1.12.0
+selenium==4.18.0
+pyqt6==6.6.0
+pyinstaller==6.4.0
+python-dotenv==1.0.0
+pillow==10.2.0
+httpx==0.26.0
+python-multipart==0.0.9
+pydantic==2.6.0

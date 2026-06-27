@@ -1,0 +1,13 @@
+.env
+data/*
+!data/.gitkeep
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+competitionmonitor.exe
+venv/
+.venv/
+cursor_.md
+history.json
